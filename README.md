@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mark!
 
-I'm currently a Software Engineer with [Captialflow](http://capitalflow.ie) in Ireland 🇮🇪 working on the full stack! Breaking a Django Monolith into FastAPI microservices on ECS in AWS, doing some React and TypeScript on the FrontEnd and doing some DevOps on AWS.
+I'm currently a Software Engineer in Ireland 🇮🇪 working on the full stack! Breaking a Django Monolith into FastAPI microservices on ECS in AWS, doing some React and TypeScript on the FrontEnd and doing some DevOps on AWS.
 
 Certified AWS Developer ([Certificate](https://www.credly.com/badges/ffc7f82d-a5c9-481b-ac44-0122c07fd2e8?source=linked_in_profile)) and big fan of Cloud Computing ☁️.
 
